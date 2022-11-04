@@ -1,4 +1,4 @@
-// implement caching/Memoize function
+// Implement caching/Memoize function
 
 const letsMemoize = (fn) => {
   const res = {};
